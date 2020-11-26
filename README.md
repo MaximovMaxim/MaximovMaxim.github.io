@@ -1,2 +1,2 @@
-# [jtomori.github.io](https://jtomori.github.io/)
+# [maximmaximov.github.io](https://maximmaximov.github.io/)
 Based on Jekyll template [sustain](https://github.com/jekyller/sustain).
