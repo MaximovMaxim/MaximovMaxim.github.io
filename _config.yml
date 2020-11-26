@@ -11,19 +11,19 @@ safe: true
 
 
 # edit here to achieve your personal greatness
-url: https://jtomori.github.io/
+url: https://maximmaximov.github.io/
 baseurl: /
-title: Juraj Tomori
-author: Juraj Tomori
+title: Maxim Maximov 
+author: Maxim Maximov
 description: Personal website and resume
 avatar: profile.jpg
-github: jtomori
-email: tomori.juraj@gmail.com
-linkedin: juraj-tomori
-vimeo: jurajtomori
-youtube: seals77
-wordpress: jurajtomori
-google_analytics: UA-136248017-1
+github: MaximovMaxim
+email: maximmaximov@hotmail.com
+#linkedin: juraj-tomori
+vimeo: maximmaximov
+#youtube: seals77
+#wordpress: jurajtomori
+#google_analytics: UA-136248017-1
 
 
 # needed for travis-ci build
